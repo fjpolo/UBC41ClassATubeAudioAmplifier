@@ -1,0 +1,160 @@
+Questionable use of curly braces in ".model sir870adp vdmos(rg=3 vto=2.9 rd=3.2m rs=1.5m rb={m} kp=100 mtriode=1.85 cgdmax=1.4n cgdmin=70p cgs=2.9n cjo=3.6n m=.4 a=.7 vj=.7 lambda=20m is=3p ksubthres=.08 mfg=siliconix vds=100 ron=5.5m qg=53.5n)"
+    Error: undefined symbol in: "[m]"
+Circuit: * C:\Users\franco\Desktop\Valvulas\Esquemáticos valvulares LTSPice\Hibrido\Hibridov4.asc
+
+Warning: Multiple definitions of model "mv2201" Type: Diode
+Warning: Multiple definitions of model "mur460" Type: Diode
+Warning: Multiple definitions of model "w5ap-lzmz-5k8l" Type: Diode
+Warning: Multiple definitions of model "1n5369b" Type: Diode
+Warning: Multiple definitions of model "1n5371b" Type: Diode
+Warning: Multiple definitions of model "1n5375b" Type: Diode
+Warning: Multiple definitions of model "1n5378b" Type: Diode
+Warning: Multiple definitions of model "1n5373b" Type: Diode
+Warning: Multiple definitions of model "pt-121-b" Type: Diode
+Warning: Multiple definitions of model "ss24" Type: Diode
+Warning: Multiple definitions of model "es1d" Type: Diode
+Warning: Multiple definitions of model "pds5100" Type: Diode
+Warning: Multiple definitions of model "zlls2000" Type: Diode
+Warning: Multiple definitions of model "zlls1000" Type: Diode
+Warning: Multiple definitions of model "10mq060n" Type: Diode
+Warning: Multiple definitions of model "b560c" Type: Diode
+Warning: Multiple definitions of model "b550c" Type: Diode
+Warning: Multiple definitions of model "b540c" Type: Diode
+Warning: Multiple definitions of model "b530c" Type: Diode
+Warning: Multiple definitions of model "b520c" Type: Diode
+Warning: Multiple definitions of model "pds760" Type: Diode
+Warning: Multiple definitions of model "dflz33" Type: Diode
+Warning: Multiple definitions of model "gsd2004w-v" Type: Diode
+Warning: Multiple definitions of model "prll5817" Type: Diode
+Warning: Multiple definitions of model "pmeg6010aed" Type: Diode
+Warning: Multiple definitions of model "pmeg2005eb" Type: Diode
+Warning: Multiple definitions of model "pmeg2010aeb" Type: Diode
+Warning: Multiple definitions of model "pmeg4005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg3005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg2005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg4010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg3010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010ea" Type: Diode
+Warning: Multiple definitions of model "pmeg2020aea" Type: Diode
+Warning: Multiple definitions of model "nssws108t" Type: Diode
+Warning: Multiple definitions of model "nssw008ct-p1" Type: Diode
+Warning: Multiple definitions of model "aot-2015" Type: Diode
+Warning: Multiple definitions of model "lxk2-pw14" Type: Diode
+Warning: Multiple definitions of model "lxhl-bw02" Type: Diode
+Warning: Multiple definitions of model "qtlp690c" Type: Diode
+Warning: Multiple definitions of model "nscw100" Type: Diode
+Warning: Multiple definitions of model "nspw500bs" Type: Diode
+Warning: Multiple definitions of model "upsc600" Type: Diode
+Warning: Multiple definitions of model "30bq060" Type: Diode
+Warning: Multiple definitions of model "mbr20100ct" Type: Diode
+Warning: Multiple definitions of model "mbrb2545ct" Type: Diode
+Warning: Multiple definitions of model "mur460" Type: Diode
+Warning: Multiple definitions of model "mbr0540" Type: Diode
+Warning: Multiple definitions of model "mv2201" Type: Diode
+Warning: Multiple definitions of model "1n750" Type: Diode
+Warning: Multiple definitions of model "rb10l-40" Type: Diode
+Warning: Multiple definitions of model "bzx84c15l" Type: Diode
+Warning: Multiple definitions of model "bzx84c12l" Type: Diode
+Warning: Multiple definitions of model "bzx84c10l" Type: Diode
+Warning: Multiple definitions of model "bzx84c8v2l" Type: Diode
+Warning: Multiple definitions of model "bzx84c6v2l" Type: Diode
+Warning: Multiple definitions of model "mbr745" Type: Diode
+Warning: Multiple definitions of model "mbr735" Type: Diode
+Warning: Multiple definitions of model "murs320" Type: Diode
+Warning: Multiple definitions of model "murs120" Type: Diode
+Warning: Multiple definitions of model "dfls220l" Type: Diode
+Warning: Multiple definitions of model "cmdsh2-3" Type: Diode
+Warning: Multiple definitions of model "mbrs360" Type: Diode
+Warning: Multiple definitions of model "mbrs340" Type: Diode
+Warning: Multiple definitions of model "mbrs140" Type: Diode
+Warning: Multiple definitions of model "mbrs130l" Type: Diode
+Warning: Multiple definitions of model "mbrs1100" Type: Diode
+Warning: Multiple definitions of model "mbr0530l" Type: Diode
+Warning: Multiple definitions of model "mbr0520l" Type: Diode
+Warning: Multiple definitions of model "bat54" Type: Diode
+Warning: Multiple definitions of model "1n5819" Type: Diode
+Warning: Multiple definitions of model "1n5818" Type: Diode
+Warning: Multiple definitions of model "1n5817" Type: Diode
+Warning: Multiple definitions of model "mmsd4148" Type: Diode
+Warning: Multiple definitions of model "1n4148" Type: Diode
+Warning: Multiple definitions of model "1n914" Type: Diode
+WARNING: Less than two connections to node N009.  This node is used by V4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:4)
+Heightened Def Con from 9.85592e-011 to 2.09856e-009
+N-Period=1
+Fourier components of V(out)
+DC component:-0.311306
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	2.000e+04	2.524e-02	1.000e+00	    3.19°	    0.00°
+    2   	4.000e+04	1.267e-02	5.021e-01	    0.83°	   -2.36°
+    3   	6.000e+04	8.363e-03	3.314e-01	    1.80°	   -1.39°
+    4   	8.000e+04	6.311e-03	2.501e-01	    0.96°	   -2.24°
+    5   	1.000e+05	5.016e-03	1.987e-01	    1.17°	   -2.03°
+    6   	1.200e+05	4.220e-03	1.672e-01	    0.61°	   -2.58°
+    7   	1.400e+05	3.605e-03	1.428e-01	    0.61°	   -2.58°
+    8   	1.600e+05	3.182e-03	1.261e-01	    0.40°	   -2.80°
+    9   	1.800e+05	2.815e-03	1.115e-01	    0.39°	   -2.81°
+Total Harmonic Distortion: 73.527551%(80.391944%)
+
+
+N-Period=1
+Fourier components of V(vpre)
+DC component:110.205
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	2.000e+04	2.668e-02	1.000e+00	    3.16°	    0.00°
+    2   	4.000e+04	1.339e-02	5.021e-01	    0.82°	   -2.34°
+    3   	6.000e+04	8.840e-03	3.314e-01	    1.78°	   -1.38°
+    4   	8.000e+04	6.671e-03	2.501e-01	    0.95°	   -2.21°
+    5   	1.000e+05	5.302e-03	1.988e-01	    1.15°	   -2.00°
+    6   	1.200e+05	4.461e-03	1.672e-01	    0.60°	   -2.56°
+    7   	1.400e+05	3.811e-03	1.428e-01	    0.61°	   -2.55°
+    8   	1.600e+05	3.363e-03	1.261e-01	    0.39°	   -2.77°
+    9   	1.800e+05	2.975e-03	1.115e-01	    0.38°	   -2.78°
+Total Harmonic Distortion: 73.527546%(80.391701%)
+
+
+
+Date: Mon Feb 20 09:57:26 2017
+Total elapsed time: 0.337 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4001
+traniter = 3577
+tranpoints = 1092
+accept = 1072
+rejected = 21
+matrix size = 31
+fillins = 6
+solver = Normal
+Matrix Compiler1: 2.18 KB object code size  1.1/0.6/[0.4]
+Matrix Compiler2: off  [0.4]/0.6/0.5
+
+
